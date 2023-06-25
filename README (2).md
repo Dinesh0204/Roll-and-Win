@@ -84,7 +84,7 @@ JavaScript
 
 
 
-![image](https://github.com/Dinesh0204/Roll-and-Win/assets/72650101/d77cbe63-8438-4d57-9425-bf77f8e52fef)
+
 
 
 ![image](https://github.com/Dinesh0204/Roll-and-Win/assets/72650101/d27c67b9-7743-4ef3-8cac-1d0e5f452d3e)
