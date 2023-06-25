@@ -74,5 +74,15 @@ JavaScript
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![image](https://github.com/Dinesh0204/Roll-and-Win/assets/72650101/58c16670-ab84-4c13-b49d-4e8a092e7b04)
+
+
+![image](https://github.com/Dinesh0204/Roll-and-Win/assets/72650101/edee6998-3234-472c-9db3-604d4ae0c964)
+
+
+![image](https://github.com/Dinesh0204/Roll-and-Win/assets/72650101/ac1a14c3-4ca2-40c0-b398-7ce70ffbb0d8)
+
+
+![image](https://github.com/Dinesh0204/Roll-and-Win/assets/72650101/9c0e8367-1193-4b2a-a99b-6e4a6c1494df)
+
 
