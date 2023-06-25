@@ -77,12 +77,16 @@ JavaScript
 ![image](https://github.com/Dinesh0204/Roll-and-Win/assets/72650101/58c16670-ab84-4c13-b49d-4e8a092e7b04)
 
 
-![image](https://github.com/Dinesh0204/Roll-and-Win/assets/72650101/edee6998-3234-472c-9db3-604d4ae0c964)
 
 
-![image](https://github.com/Dinesh0204/Roll-and-Win/assets/72650101/ac1a14c3-4ca2-40c0-b398-7ce70ffbb0d8)
+![image](https://github.com/Dinesh0204/Roll-and-Win/assets/72650101/2ae7d631-a3f0-42ce-ad4a-de898088ecc1)
 
 
-![image](https://github.com/Dinesh0204/Roll-and-Win/assets/72650101/9c0e8367-1193-4b2a-a99b-6e4a6c1494df)
+
+
+![image](https://github.com/Dinesh0204/Roll-and-Win/assets/72650101/d77cbe63-8438-4d57-9425-bf77f8e52fef)
+
+
+![image](https://github.com/Dinesh0204/Roll-and-Win/assets/72650101/d27c67b9-7743-4ef3-8cac-1d0e5f452d3e)
 
 
